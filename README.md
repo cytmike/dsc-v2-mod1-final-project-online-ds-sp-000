@@ -2,6 +2,6 @@
 
 student.ipynb - Jupyter notebook
 
-presentation.pdf - Executive Summary presentation
+presentation.pdf - Summary presentation
 
 project.md - Project Specifications
